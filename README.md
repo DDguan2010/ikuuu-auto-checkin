@@ -1,6 +1,7 @@
 ## iKuuu 定时自动签到
 
 > 利用 Github Actions 实现自动签到，支持多账户，支持 Telegram 通知。
+1
 
 [![IKUUU-Auto-Checkin](https://github.com/ewigl/ikuuu-auto-checkin/actions/workflows/Checkin.yml/badge.svg)](https://github.com/ewigl/ikuuu-auto-checkin/actions/workflows/Checkin.yml)
 
